@@ -1,2 +1,2 @@
 - Olá , meu nome é Diego 👋 
-- Atualmente estudando analise de sistemas e desenvolvimento de softwares 🌱 
+- Atualmente estudando Analise de sistemas e desenvolvimento de softwares 🌱 
